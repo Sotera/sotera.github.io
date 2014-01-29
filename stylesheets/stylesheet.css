@@ -202,9 +202,18 @@ ul, ol, dl {
 }
 
 ul {
-  list-style: outside;
-  list-style-type: square;
-  padding-left: 15px;
+  /* list-style: outside; */
+  list-style-type: none; 
+}
+
+li {
+  padding-left: 13px;
+  text-indent: -13px;
+} 
+
+li:before {
+  content: "»";
+  padding-right: 5px;
 }
 
 ol {
