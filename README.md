@@ -1,6 +1,6 @@
-# sotera.github.io
+## sotera.github.io
 
 
-github pages
+[github pages](http://sotera.github.io)
 
 
